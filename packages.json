@@ -1,3 +1,9 @@
 {
-  "private": true
+  "private": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/dmetri333/db-query-builder"
+    }
+  ]
 }
