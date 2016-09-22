@@ -3,7 +3,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/dmetri333/db-query-builder"
+      "url": "https://github.com/dmetri333/composer-test"
     }
   ]
 }
