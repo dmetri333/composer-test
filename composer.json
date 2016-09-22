@@ -1,8 +1,3 @@
 {
-	"name": "dmetri333/composer-test",
-	"repositories": [{
-        		"type": "vcs",
-        		"url": "https://github.com/dmetri333/composer-test"
-    		}
-    	]
+	"name": "dmetri333/composer-test"
 }
