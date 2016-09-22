@@ -1,8 +1,3 @@
 {
-	"name": "dmetri333/composer-test",
-    "autoload": {
-        "psr-0" : {
-            "queryBuilder" : "src/"
-        }
-    }
+	"name": "dmetri333/composer-test"
 }
