@@ -1,3 +1,5 @@
 {
-	"name": "dmetri333/composer-test"
+	"require" : {
+		"Psr/Log" : "1.*"
+	}
 }
